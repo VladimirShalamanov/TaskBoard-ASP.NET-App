@@ -1,2 +1,2 @@
 # TaskBoard-ASP.NET-App
- [06.TaskBoard] is example task from Containers and Cloud (DevOps)
+ [TaskBoard-ASP.NET-App] is [exercise 06.TaskBoard] from Containers and Cloud (DevOps) => 06.Exercise - Deployment to Cloud
